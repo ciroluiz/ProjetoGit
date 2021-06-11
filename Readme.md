@@ -1,2 +1,2 @@
-Olá esse projeto ensina a usar o Git\n
+Olá esse projeto ensina a usar o Git\
 Isso é uma alteração
